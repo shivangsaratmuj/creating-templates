@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway';
+  font-family: 'Helvetica';
 }
 
 p {
@@ -35,7 +35,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Raleway';
+  font-family: 'Helvetica';
 }
 
 .site-heading .site-heading-upper {
@@ -77,7 +77,7 @@ p {
 
 #mainNav {
   background-color: rgba(47, 23, 15, 0.9);
-  font-family: 'Raleway';
+  font-family: 'Helvetica';
 }
 
 #mainNav .navbar-brand {
